@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ce0db06`](https://github.com/stdlib-js/stdlib/commit/ce0db0686f8e0fb2c3c32df5a12058731aed3aa8) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b788a77`](https://github.com/stdlib-js/stdlib/commit/b788a773ae59f606b854842375dc125f8135a3ed) - **feat:** add `stats/strided/snanmax` _(by Aayush Khanna)_
 
 </details>
